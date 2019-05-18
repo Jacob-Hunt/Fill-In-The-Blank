@@ -1,0 +1,11 @@
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\bin\Debug\netcoreapp2.1\Fill-In-The-Blank.deps.json
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\bin\Debug\netcoreapp2.1\Fill-In-The-Blank.runtimeconfig.json
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\bin\Debug\netcoreapp2.1\Fill-In-The-Blank.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\bin\Debug\netcoreapp2.1\Fill-In-The-Blank.dll
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\bin\Debug\netcoreapp2.1\Fill-In-The-Blank.pdb
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\obj\Debug\netcoreapp2.1\Fill-In-The-Blank.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\obj\Debug\netcoreapp2.1\Fill-In-The-Blank.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\obj\Debug\netcoreapp2.1\Fill-In-The-Blank.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\obj\Debug\netcoreapp2.1\Fill-In-The-Blank.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\obj\Debug\netcoreapp2.1\Fill-In-The-Blank.dll
+C:\Users\Jacob\Desktop\_WORKSPACES\FITB_public\Fill-In-The-Blank\obj\Debug\netcoreapp2.1\Fill-In-The-Blank.pdb
